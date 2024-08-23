@@ -10,6 +10,7 @@ public class PerVowels {
             return fact*factorial(fact-1);
         }
     
+        
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
