@@ -1,4 +1,4 @@
-public class Sumcondition {
+public class Sumofleader {
     static int sumofleader(int a[],int n)
     {
         if ((n==0)) {
