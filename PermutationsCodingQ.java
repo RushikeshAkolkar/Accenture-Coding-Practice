@@ -12,8 +12,7 @@ public class PermutationsCodingQ {
     
     }
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String s =sc.next();int cnt=0;
+        String s ="abc";int cnt=0;
         for(int i=0;i<s.length();i++)
         {
             cnt++;

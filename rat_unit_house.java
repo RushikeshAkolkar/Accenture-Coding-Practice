@@ -33,7 +33,7 @@ class rat_unit_house {
         int r=sc.nextInt();
         System.out.println("how many unit require");
         int unit=sc.nextInt();
-        System.out.println("how many array element do you want in array");
+        System.out.println("how many array element which Each house contain's food");
         int n=sc.nextInt();
         System.out.println("Enter Arrya Elements");
         int a[] = new int[n];
