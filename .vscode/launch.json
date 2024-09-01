@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AutobiographicalNum",
+            "request": "launch",
+            "mainClass": "AutobiographicalNum",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "CountNoStep",
+            "request": "launch",
+            "mainClass": "CountNoStep",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "FindCount",
+            "request": "launch",
+            "mainClass": "FindCount",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "HashMapDemo",
+            "request": "launch",
+            "mainClass": "HashMapDemo",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "HashtableDemo",
+            "request": "launch",
+            "mainClass": "HashtableDemo",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "MaxLengthinArray",
+            "request": "launch",
+            "mainClass": "MaxLengthinArray",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "Passwordcheck",
+            "request": "launch",
+            "mainClass": "Passwordcheck",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "PasswordcheckRegex",
+            "request": "launch",
+            "mainClass": "PasswordcheckRegex",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "Penltity",
+            "request": "launch",
+            "mainClass": "Penltity",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "PerVowels",
+            "request": "launch",
+            "mainClass": "PerVowels",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "PermutationsCodingQ",
+            "request": "launch",
+            "mainClass": "PermutationsCodingQ",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "Replacess",
+            "request": "launch",
+            "mainClass": "Replacess",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "SetBitCoding",
+            "request": "launch",
+            "mainClass": "SetBitCoding",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "SumOfProduct",
+            "request": "launch",
+            "mainClass": "SumOfProduct",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "Sumofleader",
+            "request": "launch",
+            "mainClass": "Sumofleader",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "TralingZero",
+            "request": "launch",
+            "mainClass": "TralingZero",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "TreeMapDemo",
+            "request": "launch",
+            "mainClass": "TreeMapDemo",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "rat_unit_house",
+            "request": "launch",
+            "mainClass": "rat_unit_house",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        }
+    ]
+}
