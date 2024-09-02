@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CharCountChar",
+            "request": "launch",
+            "mainClass": "CharCountChar",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
             "name": "AndOrXopOPerations",
             "request": "launch",
             "mainClass": "AndOrXopOPerations",
