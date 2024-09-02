@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class CharCountChar {
-    static StringBuffer charcountchar(String s)
+    static StringBuffer charcountchar(String s)                 // apple
     {
         StringBuffer sb = new StringBuffer(s);
         StringBuffer sb1 = new StringBuffer();
