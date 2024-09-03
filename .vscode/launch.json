@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EvenOddReturnTF",
+            "request": "launch",
+            "mainClass": "EvenOddReturnTF",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "ReturnWithsymbol",
+            "request": "launch",
+            "mainClass": "ReturnWithsymbol",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
             "name": "SumOfLargeArrayMultip",
             "request": "launch",
             "mainClass": "SumOfLargeArrayMultip",
