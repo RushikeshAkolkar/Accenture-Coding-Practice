@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//jump Game
 public class CountNoStep {
     public static int countStep(int n){
         int step=0;
