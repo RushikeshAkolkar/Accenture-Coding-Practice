@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfLargeArrayMultip",
+            "request": "launch",
+            "mainClass": "SumOfLargeArrayMultip",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
             "name": "NagarrowCodingTest",
             "request": "launch",
             "mainClass": "NagarrowCodingTest",
