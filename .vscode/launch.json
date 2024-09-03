@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NMSumCoditions",
+            "request": "launch",
+            "mainClass": "NMSumCoditions",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
             "name": "EvenOddReturnTF",
             "request": "launch",
             "mainClass": "EvenOddReturnTF",
