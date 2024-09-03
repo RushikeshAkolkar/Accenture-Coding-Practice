@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NagarrowCodingTest",
+            "request": "launch",
+            "mainClass": "NagarrowCodingTest",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
             "name": "DicePossiblity",
             "request": "launch",
             "mainClass": "DicePossiblity",
