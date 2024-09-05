@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxString",
+            "request": "launch",
+            "mainClass": "MaxString",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
             "name": "NMSumCoditions",
             "request": "launch",
             "mainClass": "NMSumCoditions",
