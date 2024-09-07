@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "XoronArray",
+            "request": "launch",
+            "mainClass": "XoronArray",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
             "name": "LatestVersion",
             "request": "launch",
             "mainClass": "LatestVersion",
