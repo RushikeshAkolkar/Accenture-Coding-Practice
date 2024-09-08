@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PalindromandReverse",
+            "request": "launch",
+            "mainClass": "PalindromandReverse",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "ATMoperation",
+            "request": "launch",
+            "mainClass": "ATMoperation",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
             "name": "XoronArray",
             "request": "launch",
             "mainClass": "XoronArray",
