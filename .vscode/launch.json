@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalBinaryANdSet",
+            "request": "launch",
+            "mainClass": "CalBinaryANdSet",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "SecondMinimum",
+            "request": "launch",
+            "mainClass": "SecondMinimum",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
             "name": "PalindromandReverse",
             "request": "launch",
             "mainClass": "PalindromandReverse",
