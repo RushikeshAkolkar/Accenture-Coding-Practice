@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeNumberRange",
+            "request": "launch",
+            "mainClass": "PrimeNumberRange",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "SumOfBinarydigit",
+            "request": "launch",
+            "mainClass": "SumOfBinarydigit",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "SumOf",
+            "request": "launch",
+            "mainClass": "SumOf",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
             "name": "HighestGole2",
             "request": "launch",
             "mainClass": "HighestGole2",
