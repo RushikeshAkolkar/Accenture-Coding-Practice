@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HighestGole2",
+            "request": "launch",
+            "mainClass": "HighestGole2",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
+            "name": "HighestGole",
+            "request": "launch",
+            "mainClass": "HighestGole",
+            "projectName": "Accenture Coding Practice_7e2fb56e"
+        },
+        {
+            "type": "java",
             "name": "HighestGoleTeam",
             "request": "launch",
             "mainClass": "HighestGoleTeam",
