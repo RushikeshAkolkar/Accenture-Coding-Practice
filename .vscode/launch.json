@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrintMaxOfContigusArr",
+            "request": "launch",
+            "mainClass": "PrintMaxOfContigusArr",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "AutobiographicalNum",
+            "request": "launch",
+            "mainClass": "AutobiographicalNum",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "PrimeNumberRange",
             "request": "launch",
             "mainClass": "PrimeNumberRange",
