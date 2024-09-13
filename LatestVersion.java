@@ -3,6 +3,9 @@ class LatestVersion{
     {
         int version[] = new int[s.length];
         int v = 0;
+        if ((s==null)) {
+            return 0;            
+        }
         for(int i=0;i<s.length;i++)
         {
             String s1[]=s[i].split("_",s.length);
@@ -27,8 +30,17 @@ class LatestVersion{
                 v=version[k];
             }
         }
+
+        if(v>0)
+        {
+            return v;
+        }
+        else 
+        {
+            return -1;
+        }
+
         
-        return v;
     }
     public static void main(String[] args) {
         String s[] = {"File_2","File_3","File_4","File_x"};
