@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FillAndWithoutFillBottol",
+            "request": "launch",
+            "mainClass": "FillAndWithoutFillBottol",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "ThreeCongicativeOddNo",
             "request": "launch",
             "mainClass": "ThreeCongicativeOddNo",
