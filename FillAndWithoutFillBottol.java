@@ -18,7 +18,7 @@ public class FillAndWithoutFillBottol {
                     System.out.println("2.Empty Drink Bottol Exchange with Filled Drink Bottols");
                     System.out.println("3.END");
                     n=sc.nextInt();
-                    break;
+                    
                     
                 case 2:
                     if (cnt!=0) {
@@ -53,6 +53,7 @@ public class FillAndWithoutFillBottol {
                     n=sc.nextInt();
                     
                 case 3:
+                    n=0;
                     break;
             
                 default:
