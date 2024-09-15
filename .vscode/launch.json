@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sumOfTwoNumberWithoutplusopr",
+            "request": "launch",
+            "mainClass": "sumOfTwoNumberWithoutplusopr",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "FillAndWithoutFillBottol",
             "request": "launch",
             "mainClass": "FillAndWithoutFillBottol",
