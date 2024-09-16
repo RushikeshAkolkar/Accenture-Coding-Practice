@@ -21,8 +21,9 @@ public class Addonetolastdigitinarray {
     }
     public static void main(String[] args) {
         int a[] = {1,2,3};
+        int result[];
         //int a[] ={9};
-        int result[]=addlast(a);
+        result=addlast(a);
         System.out.println("After Adding our result is : ");
         System.out.print("[");
         for(int i=0;i<result.length;i++)
