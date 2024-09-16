@@ -20,8 +20,8 @@ public class Addonetolastdigitinarray {
         return a;
     }
     public static void main(String[] args) {
-        //int a[] = {1,2,3};
-        int a[] ={9};
+        int a[] = {1,2,3};
+        //int a[] ={9};
         int result[]=addlast(a);
         System.out.println("After Adding our result is : ");
         System.out.print("[");
