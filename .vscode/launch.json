@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Isomorphic",
+            "request": "launch",
+            "mainClass": "Isomorphic",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "FindCount",
+            "request": "launch",
+            "mainClass": "FindCount",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "NMSumCoditions",
+            "request": "launch",
+            "mainClass": "NMSumCoditions",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "RotatArray",
+            "request": "launch",
+            "mainClass": "RotatArray",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "Divisibleby3",
             "request": "launch",
             "mainClass": "Divisibleby3",
