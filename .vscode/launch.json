@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindFirstandlastindex",
+            "request": "launch",
+            "mainClass": "FindFirstandlastindex",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "RemoveElement",
             "request": "launch",
             "mainClass": "RemoveElement",
