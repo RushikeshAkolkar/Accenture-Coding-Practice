@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveDublicate",
+            "request": "launch",
+            "mainClass": "RemoveDublicate",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "Lengthoflastword",
             "request": "launch",
             "mainClass": "Lengthoflastword",
