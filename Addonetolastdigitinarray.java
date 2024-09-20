@@ -1,23 +1,21 @@
 import java.util.ArrayList;
 
 public class Addonetolastdigitinarray {
-    static int[] addlast(int ...a)
+    static int[] addlast(int[] digits)
     {
-        int n=a.length,no=0;
-        for(int i=n-1;i>=0;i--)
+       int n=digits.length;
+       for(int i=n-1;i>0;i--)
+       {
+        if(digits[i]<9)
         {
-            if(a[i]==9)
-            {
-                a[i]= 0;
-            }
-            else{
-                a[i]+=1;
-                return a;
-
-            }
+            digits[i]++;
+            return digits;
         }
-        a[0]=1;
-        return a;
+        digits[i]=0;
+       }
+       int[] newNumber=new int[n+1];
+       newNumber[0]=1;
+       return newNumber;
     }
     public static void main(String[] args) {
         int a[] = {1,2,3};
