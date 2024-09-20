@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Prefixcheck",
+            "request": "launch",
+            "mainClass": "Prefixcheck",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "Conversion1Dto2D",
             "request": "launch",
             "mainClass": "Conversion1Dto2D",
