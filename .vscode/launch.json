@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Reversevowel",
+            "request": "launch",
+            "mainClass": "Reversevowel",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "HashtableDemo",
+            "request": "launch",
+            "mainClass": "HashtableDemo",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "Findnonrepeatingfirstcharacter",
             "request": "launch",
             "mainClass": "Findnonrepeatingfirstcharacter",
