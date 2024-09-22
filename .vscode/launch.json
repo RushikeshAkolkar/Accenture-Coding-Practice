@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LengthStringLongestwithoutRepetingCharacter",
+            "request": "launch",
+            "mainClass": "LengthStringLongestwithoutRepetingCharacter",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "TwosumArray",
+            "request": "launch",
+            "mainClass": "TwosumArray",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "PalindromInteger",
+            "request": "launch",
+            "mainClass": "PalindromInteger",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "ReturnFirstindexosstr",
+            "request": "launch",
+            "mainClass": "ReturnFirstindexosstr",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "FindFirstandlastindex",
             "request": "launch",
             "mainClass": "FindFirstandlastindex",
