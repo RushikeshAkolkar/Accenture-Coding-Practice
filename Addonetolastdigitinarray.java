@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class Addonetolastdigitinarray {
     static int[] addlast(int[] digits)
@@ -18,16 +19,11 @@ public class Addonetolastdigitinarray {
        return newNumber;
     }
     public static void main(String[] args) {
-        int a[] = {1,2,3};
+        //int a[] = {1,2,3};
         int result[];
-        //int a[] ={9};
+        int a[] ={9};
         result=addlast(a);
         System.out.println("After Adding our result is : ");
-        System.out.print("[");
-        for(int i=0;i<result.length;i++)
-        {
-            System.out.print(result[i]+", ");
-        }
-        System.out.println("]");
+        System.out.println(Arrays.toString(result));
     }
 }
