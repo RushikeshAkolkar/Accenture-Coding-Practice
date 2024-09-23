@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Letterofpattern",
+            "request": "launch",
+            "mainClass": "Letterofpattern",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "SingleNumber",
             "request": "launch",
             "mainClass": "SingleNumber",
