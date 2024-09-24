@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EvenOddReturnTF",
+            "request": "launch",
+            "mainClass": "EvenOddReturnTF",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "DicePossiblity",
             "request": "launch",
             "mainClass": "DicePossiblity",

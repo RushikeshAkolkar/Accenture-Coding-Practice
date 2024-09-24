@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class LeftRotatArray {
     public static void main(String[] args) {
         int a[] = {1,2,3,4,5,6,7};
@@ -11,11 +13,7 @@ public class LeftRotatArray {
         {
             temp[b++]=a[j];
         }
-        System.out.print("Array After Left Shift is given bleow \n [");
-        for(int i=0;i<temp.length;i++)
-        {
-            System.out.print(temp[i]);
-        }
-        System.out.println("]");
+        System.out.println("Array After Left Shift is given bleow ");
+        System.out.println(Arrays.toString(temp));
     }
 }
