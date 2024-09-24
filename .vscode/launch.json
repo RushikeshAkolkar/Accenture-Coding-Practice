@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DicePossiblity",
+            "request": "launch",
+            "mainClass": "DicePossiblity",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "CharCountChar",
+            "request": "launch",
+            "mainClass": "CharCountChar",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "MissingNumber",
             "request": "launch",
             "mainClass": "MissingNumber",
