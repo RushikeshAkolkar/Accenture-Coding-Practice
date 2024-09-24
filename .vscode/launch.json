@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MissingNumber",
+            "request": "launch",
+            "mainClass": "MissingNumber",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "Sumofdigit",
             "request": "launch",
             "mainClass": "Sumofdigit",
