@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindDifference",
+            "request": "launch",
+            "mainClass": "FindDifference",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "LongestCommonPrefix",
             "request": "launch",
             "mainClass": "LongestCommonPrefix",
