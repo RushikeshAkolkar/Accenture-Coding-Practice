@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeStringsAltrernately",
+            "request": "launch",
+            "mainClass": "MergeStringsAltrernately",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "FindLucky",
             "request": "launch",
             "mainClass": "FindLucky",
