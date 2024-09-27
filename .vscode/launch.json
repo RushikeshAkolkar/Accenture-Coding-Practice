@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Insertionsort",
+            "request": "launch",
+            "mainClass": "Insertionsort",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "Bubblesort",
             "request": "launch",
             "mainClass": "Bubblesort",
