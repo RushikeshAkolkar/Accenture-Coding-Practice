@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReboundHight",
+            "request": "launch",
+            "mainClass": "ReboundHight",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "PrimeNumber",
             "request": "launch",
             "mainClass": "PrimeNumber",
