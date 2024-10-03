@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Cntlculandconvertintothatcase",
+            "request": "launch",
+            "mainClass": "Cntlculandconvertintothatcase",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "BinaryDigitcnt",
             "request": "launch",
             "mainClass": "BinaryDigitcnt",
