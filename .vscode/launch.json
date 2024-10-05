@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "additionofarray",
+            "request": "launch",
+            "mainClass": "additionofarray",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "Meta_Number",
             "request": "launch",
             "mainClass": "Meta_Number",
