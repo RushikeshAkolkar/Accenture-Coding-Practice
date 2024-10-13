@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Powerofopr",
+            "request": "launch",
+            "mainClass": "Powerofopr",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "additionofarray",
             "request": "launch",
             "mainClass": "additionofarray",
