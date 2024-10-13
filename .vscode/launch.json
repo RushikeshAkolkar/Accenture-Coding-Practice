@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberofPossiblesubstr",
+            "request": "launch",
+            "mainClass": "NumberofPossiblesubstr",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "Powerofopr",
             "request": "launch",
             "mainClass": "Powerofopr",
