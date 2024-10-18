@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Dicesthrow",
+            "request": "launch",
+            "mainClass": "Dicesthrow",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
+            "name": "PracticeJdbc",
+            "request": "launch",
+            "mainClass": "PracticeJdbc",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "Practicesqrt",
             "request": "launch",
             "mainClass": "Practicesqrt",

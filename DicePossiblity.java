@@ -8,9 +8,9 @@ public class DicePossiblity {
             return 0;
         }
         int count = 0;
-        for(int i=0;i<=6;i++)
+        for(int i=1;i<=6;i++)
         {
-            if(sum-i >=1 && sum-i <6)
+            if(sum-i >=1 && sum-i <=6)
             {
                 count++;
             }
