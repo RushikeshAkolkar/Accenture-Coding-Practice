@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ChocaletProblem",
+            "request": "launch",
+            "mainClass": "ChocaletProblem",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "Nonrepeatingstr",
             "request": "launch",
             "mainClass": "Nonrepeatingstr",
