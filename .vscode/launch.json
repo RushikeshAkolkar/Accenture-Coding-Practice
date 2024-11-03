@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LargestNoinArray",
+            "request": "launch",
+            "mainClass": "LargestNoinArray",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "Reversestr",
             "request": "launch",
             "mainClass": "Reversestr",
