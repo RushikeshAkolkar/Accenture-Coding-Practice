@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QuickSort2",
+            "request": "launch",
+            "mainClass": "QuickSort2",
+            "projectName": "Accenture-Coding-Practice_bee0fbbf"
+        },
+        {
+            "type": "java",
             "name": "BinarytoDecimal",
             "request": "launch",
             "mainClass": "BinarytoDecimal",

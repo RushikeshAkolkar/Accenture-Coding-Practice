@@ -1,3 +1,6 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.Scanner;
 
 public class BinaryDigitcnt {
@@ -12,10 +15,10 @@ public class BinaryDigitcnt {
         }
         return sum;
     }
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+    public static void main(String[] args) throws NumberFormatException, IOException {
+        BufferedReader sc = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("which digit you want : ");
-        int n = sc.nextInt();
+        int n = Integer.parseInt(sc.readLine());
         System.out.println("the sum of binary digit and it's sum of 1 is : "+functionSum(n));
     }
 }
